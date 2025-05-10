@@ -1,0 +1,14 @@
+node_modules
+dist
+artifacts
+cache
+.env
+package-lock.json
+coverage
+*.log
+*.tsbuildinfo
+.DS_Store
+.idea
+.vscode
+tmp
+test-results
